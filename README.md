@@ -5,7 +5,7 @@ Tried to make a water physics simulation.
 
 
 ## Controls:
-Press <Down>/<Up> to change the speed.
+Press **Down**/**Up** to change the speed.
 
 Press **Q** to change the current block.
 
