@@ -7,17 +7,17 @@ Tried to make a water physics simulation.
 ## Controls:
 Press <Down>/<Up> to change the speed.
 
-Press <Q> to change the current block.
+Press **Q** to change the current block.
 
-Press <W> to remove the walls.
+Press **W** to remove the walls.
 
-Press <E> to remove the water.
+Press **E** to remove the water.
 
-Press <R> to clear the map.
+Press **R** to clear the map.
 
-Press <Left mouse button> to place a block.
+Press **Left mouse button** to place a block.
 
-Press <Right mouse button> to delete a block.
+Press **Right mouse button** to delete a block.
 
 
 You can change "Map.png" in the "Resources/Images" directory. It will change the initial state of the map.
